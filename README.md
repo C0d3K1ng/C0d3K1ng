@@ -1,6 +1,6 @@
 - Hello, I’m @C0d3K1ng
 - I’m interested in Robotic Process Automation (RPA), Climate Modeling, Game Development and Data Analytics. 
-- I'm a Programming student learning programming.
+- I'm a Computer Information Systems Graduate.
 - I have experience with Python, Java, C++, C# and Visual Basic. NET.
 - Web Design - building reactive websites utliizing HTML, CSS and JavaScript.
 - I’m looking to collaborate on videogames, climate modeling and benevolent machine learning.
